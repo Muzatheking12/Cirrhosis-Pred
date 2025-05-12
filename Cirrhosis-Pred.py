@@ -233,7 +233,7 @@ with tab2:
     st.write("### t-SNE Visualization")
     st.image(tsnetgf)
     st.write("### Model Performance Metrics")
-    st.write("** Model: Random Forest Classifier **")
+    st.write("**Model: Random Forest Classifier**")
     st.write("** FP: Morgan **")
     st.image(mettgf)
     st.write("### Comparative Analysis")
